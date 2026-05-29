@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shagun</h1>
-<h3 align="center">BTech CSE Student | Learning Web Development & DSA 🚀</h3>
+<h3 align="center">BTech CSE Student | Learning Web Development & Open Source 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Learning+something+new+everyday+✨;Future+Software+Developer+💻" />
@@ -13,7 +13,6 @@
 - 💻 Currently learning **HTML, CSS & Programming**
 - 🌱 Exploring **Web Development & Open Source**
 - ✨ Trying to grow one commit at a time
-- ☕ Chai + Coding = Perfect Combo
 
 ---
 
